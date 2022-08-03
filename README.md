@@ -16,4 +16,8 @@ read_line.c 			read line from standard input.
 
 read_stream.c			read line from the stream.
 
-main.h				contains project header files and macros
+main.h				contains project header files and macros.
+
+execute_args.c			contains builtin functions.
+
+new_process.c			function that creates new process.
