@@ -21,3 +21,5 @@ main.h				contains project header files and macros.
 execute_args.c			contains builtin functions.
 
 new_process.c			function that creates new process.
+
+split_line.c			splits a string into tokens
