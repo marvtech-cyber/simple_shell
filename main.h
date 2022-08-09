@@ -28,4 +28,7 @@ char *read_stream(void);
 /*---execute_args---*/
 int new_process(char **args);
 int num_builtins(void);
+
+/*---builtins---*/
+int own_cd(char **args);
 #endif
