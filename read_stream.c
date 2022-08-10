@@ -44,4 +44,6 @@ char *read_stream(void)
 				fprintf(stderr, "reallocation error in read_stream");
 				exit(EXIT_FAILURE);
 			}
+		}
+	}
 }
