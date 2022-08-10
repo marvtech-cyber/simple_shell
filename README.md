@@ -29,3 +29,5 @@ own_cd.c			changes working directory.
 own_env.c			function that prints environment variable.
 
 own_exit.c			exit shell.
+
+own_help.c			function that prints help
