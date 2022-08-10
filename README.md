@@ -25,3 +25,5 @@ new_process.c			function that creates new process.
 split_line.c			splits a string into tokens
 
 own_cd.c			changes working directory
+
+own_env.c			function that prints environment variable
