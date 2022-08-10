@@ -22,8 +22,10 @@ execute_args.c			contains builtin functions.
 
 new_process.c			function that creates new process.
 
-split_line.c			splits a string into tokens
+split_line.c			splits a string into token.s
 
-own_cd.c			changes working directory
+own_cd.c			changes working directory.
 
-own_env.c			function that prints environment variable
+own_env.c			function that prints environment variable.
+
+own_exit.c			exit shell.

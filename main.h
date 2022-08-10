@@ -32,4 +32,5 @@ int num_builtins(void);
 /*---builtins---*/
 int own_cd(char **args);
 int own_exit(char **args);
+int own_env(char **args);
 #endif
