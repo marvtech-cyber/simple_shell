@@ -29,9 +29,10 @@ char *read_stream(void);
 int new_process(char **args);
 int num_builtins(void);
 
-/*---builtins---*/
+/*---builtin---*/
 int own_cd(char **args);
 int own_exit(char **args);
 int own_env(char **args);
 int own_help(char **args);
+
 #endif
